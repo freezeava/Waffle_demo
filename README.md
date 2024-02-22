@@ -1,2 +1,2 @@
 # Waffle_demo
-This is demo repo for Git &amp; Git hub
+This is demo for Git &amp; Git hub
